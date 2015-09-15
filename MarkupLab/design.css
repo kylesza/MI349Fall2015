@@ -1,0 +1,19 @@
+body{
+  font-family: sans-serif;
+  margin: auto;
+  background-color: green;
+}
+
+article{
+  background: white;
+}
+
+h2{
+  color: green;
+}
+
+a{
+  font-family: serif;
+  font-size: 25px;
+  color: green;
+}
