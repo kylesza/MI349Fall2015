@@ -19,9 +19,10 @@ article{
 }
 
 .recipe {
-
+  background: #fff;
 }
 
 .recipe h2{
-
+  font-family: "Serif";
+  background: #424242;
 }
