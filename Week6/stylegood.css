@@ -56,7 +56,7 @@ h1{
 }
 
 .img-circle {
-  border-radius: 25%;
+  border-radius: 50px;
   float: left;
   padding: 10px;
 }
