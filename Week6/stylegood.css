@@ -2,7 +2,6 @@ body {
   background: #000F1A;
   margin: 0;
   font-family:Helvetica, sans-serif;
-font-weight: 200;
 }
 
 .container {
@@ -20,6 +19,9 @@ font-weight: 200;
 
 }
 
+p{
+  font-weight: 100;
+}
 
 
 a:link, a:visited {
@@ -73,8 +75,9 @@ h1{
 	border:6px solid #0b0e07;
 	display:inline-block;
 	cursor:pointer;
-	font-family:Verdana;
-	font-size:15px;
+	font-family:Helvetica;
+  font-weight: 200;
+	font-size:25px;
 	padding:9px 23px;
 	text-decoration:none;
 }
