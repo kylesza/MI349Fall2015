@@ -1,0 +1,32 @@
+.column{
+  margin: 0 auto;
+  background: #e3e3e3;
+  float: left;
+  display: inline;
+  padding: 1em;
+}
+
+@media (min-width: 400px) {
+  .column{
+    width: 100%;
+  }
+
+  @media (min-width: 800px) {
+    .column{
+      width: 33%;
+    }
+
+    @media (min-width: 1200px) {
+      .column{
+        width: 25%;
+      }
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi)  {
+
+  /*retina*/
+
+}
+
+}
