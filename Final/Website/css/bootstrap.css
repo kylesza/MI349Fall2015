@@ -4856,6 +4856,11 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager li {
   display: inline;
 }
+
+#animate{
+  display: none;
+}
+
 .pager li > a,
 .pager li > span {
   display: inline-block;

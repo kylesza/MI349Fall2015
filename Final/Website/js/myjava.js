@@ -1,7 +1,7 @@
-(function($) {
 
-  $(window).load(function() {
-    $(document.body).fadeIn(1000);
-  });
 
-})(jQuery);
+$(document).ready(function() {
+    $('#animate').fadeIn("slow");
+    $('#animate2').fadeIn("slow");
+    $('#animate3').fadeIn("slow");
+});
