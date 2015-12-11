@@ -1,0 +1,50 @@
+body {
+  background: #75CA68;
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background: #56AB49;
+  padding-top: 50px;
+  border-top: 10px dotted #154F0C;
+}
+
+.podcast {
+  padding: 20px 40px;
+  background: #fff;
+}
+
+
+a:link, a:visited {
+  color: #424242;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #75CA68;
+}
+
+ul li{
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ddd;
+  width: 29%;
+  margin: auto;
+  background: white;
+}
+
+ul li:hover{
+  background: black;
+}
+
+
+h2{
+  clear: both;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
